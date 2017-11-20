@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c55fd4fa-0b8e-4e20-b20d-a76f2c5c8f86" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AirTravelCost.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TrainTravelCost.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CarTravelCost.java" afterPath="$PROJECT_DIR$/src/CarTravelCost.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AirTravelCost.java" afterPath="$PROJECT_DIR$/src/AirTravelCost.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TestCarTravelCost.java" afterPath="$PROJECT_DIR$/src/TestCarTravelCost.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -34,7 +32,7 @@
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5708245">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="TravelCost.java" pinned="false" current-in-tab="false">
@@ -47,12 +45,14 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="TestCarTravelCost.java" pinned="false" current-in-tab="false">
+          <file leaf-file-name="TestCarTravelCost.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/TestCarTravelCost.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="240">
-                  <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
-                  <folding />
+                <state relative-caret-position="424">
+                  <caret line="49" column="95" lean-forward="false" selection-start-line="49" selection-start-column="95" selection-end-line="49" selection-end-column="95" />
+                  <folding>
+                    <element signature="e#1114#1126#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -60,19 +60,26 @@
           <file leaf-file-name="CarTravelCost.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/CarTravelCost.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1008">
+                <state relative-caret-position="876">
                   <caret line="42" column="4" lean-forward="true" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="AirTravelCost.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="AirTravelCost.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/AirTravelCost.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="480">
-                  <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-                  <folding />
+                <state relative-caret-position="1078">
+                  <caret line="53" column="22" lean-forward="false" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+                  <folding>
+                    <element signature="e#860#861#0" expanded="true" />
+                    <element signature="e#894#895#0" expanded="true" />
+                    <element signature="e#1822#1823#0" expanded="true" />
+                    <element signature="e#1886#1887#0" expanded="true" />
+                    <element signature="e#1938#1939#0" expanded="true" />
+                    <element signature="e#1989#1990#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -80,8 +87,8 @@
           <file leaf-file-name="TrainTravelCost.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/TrainTravelCost.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="288">
-                  <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+                <state relative-caret-position="308">
+                  <caret line="34" column="84" lean-forward="false" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="84" />
                   <folding />
                 </state>
               </provider>
@@ -91,15 +98,12 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="TrainTravelCost.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/TrainTravelCost.java">
+          <file leaf-file-name="AirTravelCost.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/AirTravelCost.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="312">
-                  <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-                  <folding>
-                    <element signature="e#363#364#0" expanded="true" />
-                    <element signature="e#394#395#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="738">
+                  <caret line="53" column="22" lean-forward="false" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -117,6 +121,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="jpramassini &lt;jpramassini@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -136,8 +145,8 @@
         <option value="$PROJECT_DIR$/src/TravelCost.java" />
         <option value="$PROJECT_DIR$/src/CarTravelCost.java" />
         <option value="$PROJECT_DIR$/src/TrainTravelCost.java" />
-        <option value="$PROJECT_DIR$/src/TestCarTravelCost.java" />
         <option value="$PROJECT_DIR$/src/AirTravelCost.java" />
+        <option value="$PROJECT_DIR$/src/TestCarTravelCost.java" />
       </list>
     </option>
   </component>
@@ -328,12 +337,20 @@
       <workItem from="1510846159784" duration="1271000" />
       <workItem from="1510871396779" duration="8740000" />
       <workItem from="1510924843281" duration="77000" />
-      <workItem from="1511184168594" duration="2662000" />
+      <workItem from="1511184168594" duration="6041000" />
     </task>
+    <task id="LOCAL-00001" summary="Working on exercise 3.">
+      <created>1511187243831</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1511187243831</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12750000" />
+    <option name="totallyTimeSpent" value="16129000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="974" extended-state="6" />
@@ -350,7 +367,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14020857" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13369964" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957393" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -398,6 +415,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Working on exercise 3." />
+    <option name="LAST_COMMIT_MESSAGE" value="Working on exercise 3." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -449,7 +470,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#1114#1126#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -505,35 +528,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestCarTravelCost.java">
+    <entry file="file://$PROJECT_DIR$/src/AirTravelCost.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        <state relative-caret-position="1078">
+          <caret line="53" column="22" lean-forward="false" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+          <folding>
+            <element signature="e#860#861#0" expanded="true" />
+            <element signature="e#894#895#0" expanded="true" />
+            <element signature="e#1822#1823#0" expanded="true" />
+            <element signature="e#1886#1887#0" expanded="true" />
+            <element signature="e#1938#1939#0" expanded="true" />
+            <element signature="e#1989#1990#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrainTravelCost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="34" column="84" lean-forward="false" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="84" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CarTravelCost.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
+        <state relative-caret-position="876">
           <caret line="42" column="4" lean-forward="true" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TrainTravelCost.java">
+    <entry file="file://$PROJECT_DIR$/src/TestCarTravelCost.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AirTravelCost.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="424">
+          <caret line="49" column="95" lean-forward="false" selection-start-line="49" selection-start-column="95" selection-end-line="49" selection-end-column="95" />
+          <folding>
+            <element signature="e#1114#1126#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
